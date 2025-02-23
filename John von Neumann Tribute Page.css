@@ -1,0 +1,47 @@
+html{
+  background-color: rgb(240, 240, 240);
+}
+
+body{
+  text-align: left;
+  background-color: rgb(210, 210, 210);
+  padding: 10px;
+}
+
+#img-div {
+  background-color: rgb(240, 240, 240);
+  text-align: center;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+
+#image{
+  max-width: 100%;
+  width: 400px;
+  height: auto;
+  display: block;
+  margin: 10px auto 10px auto;
+  
+}
+
+section{
+  width: 70%;
+  max-width: 600px;
+  margin: 0 auto 10px auto;
+}
+
+#img-div, h1, h2, h3 {
+  text-align: center;
+}
+
+#tribute-info, #img-caption{
+  font-size: 1.05rem;
+  font-family: Verdana, Tahoma; 
+  padding: 0.5rem 0;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+
